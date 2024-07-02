@@ -1,0 +1,6 @@
+[submodule "batch-worker-integration-jms"]
+	path = batch-worker-integration-jms
+	url = git@github.com:leltonborges/batch-worker-integration-jms.git
+[submodule "batch-master-integration-jms"]
+	path = batch-master-integration-jms
+	url = git@github.com:leltonborges/batch-master-integration-jms.git
